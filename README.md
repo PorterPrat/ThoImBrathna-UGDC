@@ -1,1 +1,3 @@
 # ThoImBrathna-UGDC
+
+Well hello, I'm Brathna and am here because I've joined this club in the pursuit to a greater future, a future that involves the making of games, editing, and engineering feats. This in turn can change me in what I'm truly am right now, your average junior highschooler learning to keep up with the school and his friends, in this case, I'm here to learn the how to work with and master the art of Game Development and what is has to offer. And I'll hope you'll enjoy the project we'll be creating over the months to come, stay tuned as our skills of development will also develop us along the way.
